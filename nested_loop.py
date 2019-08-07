@@ -1,5 +1,5 @@
-# numbers = [5, 2, 5, 2, 2]
-numbers = [2, 2, 2, 5, 5]
+numbers = [5, 2, 5, 2, 2]
+# numbers = [2, 2, 2, 5, 5]
 
 for x_count in numbers:
     output = ''

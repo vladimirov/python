@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66bb2871-4760-4061-ad17-76b937a5a7d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/greatest_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/total.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greatest_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/largest_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nested_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/nested_loop.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -48,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.greatest_number">
+  <component name="RunManager" selected="Python.largest_number">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Start" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="greatest_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="largest_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Start" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,49 +85,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/greatest_number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="names" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Start" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/names.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="nested_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Start" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nested_loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/largest_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,9 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.greatest_number" />
-        <item itemvalue="Python.names" />
-        <item itemvalue="Python.nested_loop" />
+        <item itemvalue="Python.largest_number" />
         <item itemvalue="Python.app" />
       </list>
     </recent_temporary>
@@ -174,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565102660568</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="greatest number in list">
+      <created>1565105431283</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565105431283</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +160,7 @@
     <MESSAGE value="car exercise updated" />
     <MESSAGE value="for loops added" />
     <MESSAGE value="nested loops added" />
-    <option name="LAST_COMMIT_MESSAGE" value="nested loops added" />
+    <MESSAGE value="greatest number in list" />
+    <option name="LAST_COMMIT_MESSAGE" value="greatest number in list" />
   </component>
 </project>
