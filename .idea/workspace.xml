@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66bb2871-4760-4061-ad17-76b937a5a7d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2d_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emoji_converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/DenisQA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emoji_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/emoji_converter.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.emoji_converter">
+  <component name="RunManager" selected="Python.functions">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Start" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,6 +85,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/emoji_converter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Start" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,6 +158,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.functions" />
         <item itemvalue="Python.emoji_converter" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.numbers" />
@@ -191,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565162155962</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="emoji converter">
+      <created>1565172607849</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1565172607849</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,6 +241,7 @@
     <MESSAGE value="nested loops added" />
     <MESSAGE value="greatest number in list" />
     <MESSAGE value="largest number updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="largest number updated" />
+    <MESSAGE value="emoji converter" />
+    <option name="LAST_COMMIT_MESSAGE" value="emoji converter" />
   </component>
 </project>
