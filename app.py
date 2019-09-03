@@ -1,13 +1,3 @@
-digits = {
-    "1": "One",
-    "2": "Two",
-    "3": "Three",
-    "4": "Four",
-}
+import converters
 
-input_character = input()
-output = ""
-for digit in input_character:
-    output += digits.get(digit, "!") + " "
-print(output)
-
+print(converters.kg_to_lbs(70))
